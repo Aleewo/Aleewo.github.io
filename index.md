@@ -10,4 +10,4 @@ title: Alejandro Salazar Ramírez
 Bienvenido a mi portafolio de proyectos de análisis, visualización y modelado de datos.  
 Este sitio está construido con GitHub Pages y el tema `minimal`.
 
-👉 [Ver mi perfil de GitHub](https://github.com/aleewo)
+👉 [Ver mi perfil de GitHub](https://github.com/aleewo) 
