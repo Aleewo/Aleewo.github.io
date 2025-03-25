@@ -1,4 +1,4 @@
-remote_theme: orderedlist/modern-resume-theme
+theme: jekyll-theme-minimal
 
 title: Alejandro Salazar Ramírez
 description: Portafolio de Alejandro - Ciencia de Datos
